@@ -1,4 +1,4 @@
-# SHEIN-Men-s-Fashion-Insights
+# SHEIN Men's Fashion Insights
 This project analyzes Shein's men’s fashion dataset, offering insights into sales, reviews, and trends. Built in Power BI, the dashboard combines data modeling and visualization to deliver actionable insights for better decision-making.
 
 Key Features:
