@@ -1,19 +1,30 @@
 # SHEIN Men's Fashion Insights
-This project analyzes Shein's men’s fashion dataset, offering insights into sales, reviews, and trends. Built in Power BI, the dashboard combines data modeling and visualization to deliver actionable insights for better decision-making.
 
-Key Features:
-Data Modeling: Organized data using relationships between fact and dimension tables for accurate insights.
-KPIs: Total Sales, Total Retail, Average Discount, and Review Count.
-Category Insights: Men T-Shirts lead in sales, followed by Jeans and Shorts.
-Color Trends: Black and Multicolor are most popular.
-Discount Impact: A 22.74% average discount boosts sales effectively.
-Visualizations:
-Bar Charts: Highlight category and color performance in sales and retail.
-Pie Charts: Show proportions of reviews and ratings by category and color.
-KPIs Section: Displays high-level metrics for quick analysis.
-Gauge Chart: Shows average product ratings.
-Tools Used:
-Power BI for dashboard design and interactivity.
-Data Modeling to optimize and structure data relationships.
-Python & Excel for initial data exploration and preprocessing.
-This dashboard showcases how effective data modeling and visualization can turn raw data into valuable insights for businesses, empowering decision-makers in the fashion industry.
+## 📊 Project Overview  
+This project presents an interactive Power BI dashboard analyzing **Shein Men’s Fashion** data. It provides insights into product categories, customer reviews, ratings, and pricing trends, empowering businesses to understand consumer preferences and optimize strategies.  
+
+Portfilio Dashboard:  
+![SHEIN Men's Fashion Insights](Dashboard.png)
+
+## 🔑 Key Features  
+- **Data Modeling**: Built a star schema for smooth table relationships and accurate data analysis.  
+- **KPIs & Metrics**: Total sales, total retail, reviews count, and average discounts.  
+- **Visual Insights**:  
+   - Category performance by sales and reviews.  
+   - Popular product colors and ratings.  
+   - Key trends in discount impact on sales.  
+- **Regex Implementation**: Extracted product attributes like **colors, fits**, and **materials** from text descriptions for deeper analysis.  
+
+---
+
+## 🛠️ Tools Used  
+- **Power BI** for visualization and analysis.  
+- **SQL** for data transformation and modeling.  
+- **Regex** for extracting attributes.  
+
+---
+
+## 📈 Insights Generated  
+1. **Top Categories**: Men T-Shirts lead in reviews and average sales.  
+2. **Popular Colors**: Black and Multicolor dominate reviews and ratings.  
+3. **Discount Influence**: ~22.7% average discount has a strong effect on sales. 
